@@ -1,6 +1,7 @@
 from hello import welcome
+import bye
 welcome()
+bye.goodbye()
 
-# Alternatively you could have the code:
-# import hello
-# hello.welcome()
+
+
